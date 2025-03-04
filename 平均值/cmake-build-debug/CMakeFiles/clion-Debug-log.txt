@@ -1,0 +1,1 @@
+在 D:\c_code\平均值 中找不到 CMakeLists.txt 选择 CMakeLists.txt
